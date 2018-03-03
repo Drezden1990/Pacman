@@ -1,6 +1,9 @@
 # Pacman
 A javascript, three.js version of Pacman done for my Aritifical Intelligence module in third year of Computer Applications, DCU.
 
+Hosted on Ancient Brain website - a website aiming to become one of the most fun places in the world to code:
+https://ancientbrain.com/world.php?world=8080212350
+
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 /*
@@ -29,11 +32,10 @@ and when it returns to the original way of ghosts killing pacman.
 
 
 
-
 Sound:
 -----
 I used the theme tune from the tv show 'Stranger Things' to add an eerie affect to the 
-game, since it's pacman in space.
+game since it's themed as pacman in space.
 
 Used the traditional pacman sounds for chomping pellets, death of pacman, death of ghosts, and 
 
