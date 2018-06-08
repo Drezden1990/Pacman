@@ -5,9 +5,6 @@ Hosted on Ancient Brain website - a website aiming to become one of the most fun
 https://ancientbrain.com/world.php?world=8080212350
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
-/*
-
 ---------
 Features:
 ---------
@@ -77,12 +74,3 @@ orient the camera in any way while playing.
     - possible level random selection
     - incremental levels, each new level would become more difficult
 
-
-Limitations
-------------
-- I wanted to have a singular method for drawing an enemy. I couldn't get it working in Three.js 
-so I used separate methods for drawing each enemy. This is inefficient code re-use and something 
-I will figure out eventually.
-
-*/
-////////////////////////////////////////////////////////////////////////////////////////////////
