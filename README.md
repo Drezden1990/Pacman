@@ -1,7 +1,7 @@
 # Pacman
 A javascript, three.js version of Pacman done for my Aritifical Intelligence module in third year of Computer Applications, DCU. Mark obtained 85%.
 
-Hosted on Ancient Brain website - a website aiming to become one of the most fun places in the world to code:
+Hosted and playable on the Ancient Brain website:
 https://ancientbrain.com/world.php?world=8080212350
 
 
