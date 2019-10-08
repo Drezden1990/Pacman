@@ -58,7 +58,7 @@ the human player.
 
 
 
-Aditional Features that could be added (not added due to time constraints):
+Additional Features not added due to time constraints:
 ---------------------------------------------------------------------------
 - each enemy has a set path which they traverse but on each step, they check to see if the
 agent is within X steps of them, i.e. within a certain range of them. 
